@@ -4,3 +4,12 @@ This project addresses critical challenges in hospital IT infrastructure—focus
 
 The result is a scalable and replicable network blueprint that enhances real-time communication, protects sensitive patient data, and improves overall operational efficiency. It serves as a model for hospitals moving toward digital transformation.
 
+Key Responsibilities:
+
+1. Designed a hierarchical network (Core, Distribution, Access) for EMRs, telemedicine, and IoT integration.
+
+2. Implemented security measures like encryption, ACLs, and port security for HIPAA compliance.
+
+3. Tested network reliability and performance using Cisco Packet Tracer.
+
+4. Analyzed costs and documented impacts, enhancing patient care and telehealth access.
